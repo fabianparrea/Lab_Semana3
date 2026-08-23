@@ -1,5 +1,5 @@
 # Laboratorio 2 - Resultados
-#Estudiante: Fabián Parreguirre Hidalgo
+# Estudiante: Fabián Parreguirre Hidalgo
 
 ## Como correrlo
 
